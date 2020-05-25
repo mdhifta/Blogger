@@ -1,0 +1,19 @@
+#pict{
+  border-radius:100em;
+  width:160px;
+  height:160px;
+  display:block;
+  margin:auto;
+  margin-top:150px;
+  align:bottom;
+}
+
+#footer{
+	position:relative;
+	background:#000;
+	height:57px;
+	line-height:40px;
+	color:#fff;
+	text-align:center;
+  margin-top: 150px;
+}
